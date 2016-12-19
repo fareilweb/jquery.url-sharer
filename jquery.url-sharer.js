@@ -77,7 +77,8 @@
             _this.elab( social, current_url, text );
         });
 
-    })();
+    })({});
+	
     /* Usage
     <a href="#" 
         class="scu_link"
