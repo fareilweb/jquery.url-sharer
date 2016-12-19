@@ -81,7 +81,7 @@
     /* Usage
     <a href="#" 
         class="scu_link"
-        data-text=""
+        data-text="Some Text to Share"
         data-social="twitter"
         title="Share on Twitter"
     ></a>
