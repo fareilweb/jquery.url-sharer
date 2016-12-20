@@ -34,7 +34,7 @@
         /* Elaborate Data and Call the Popup */
         this.elab = function (social, url_to_share, text)
         {
-            var _text;
+            var _text = "";
             if (text !== undefined) {
                 _text = text;
             }
